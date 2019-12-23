@@ -5,8 +5,8 @@ colors_in_the_rainbow.push(next_color)
 end 
 
 def using_unshift(bouroughs_in_nyc)
-  bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
-  bouroughs_in_nyc.unshift("Staten Island")
+  @bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
+  @bouroughs_in_nyc.unshift("Staten Island")
 end
 
 def using_pop(continents)
