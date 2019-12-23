@@ -12,8 +12,9 @@ end
 def using_pop(string)
 continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]  
 continents.pop 
-puts #{continents}
+puts "#{continents}"
 end
+
 
 
 
