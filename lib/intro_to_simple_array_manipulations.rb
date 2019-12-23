@@ -42,9 +42,10 @@ def using_concat(my_favorite_things,all_my_favs)
     @new_array = @list_of_programming_languages.insert(4,another_language)
   end
   
-  def using_uniq()
-
-end
+  def using_uniq(haircuts)
+haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
+    new_array = haircuts.uniq 
+    end
 
 
 
