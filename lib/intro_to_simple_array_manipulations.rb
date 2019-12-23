@@ -10,5 +10,7 @@ def using_unshift(array,string)
   bouroughs_in_nyc.push(new_neighborhood)
 end
 
+def using_pop(array)
+  
 
 
