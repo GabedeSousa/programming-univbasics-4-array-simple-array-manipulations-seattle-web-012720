@@ -10,7 +10,6 @@ def using_unshift(bouroughs_in_nyc)
   bouroughs_in_nyc.unshift(new_neighborhood)
 end
 
-
 def using_pop(continents)
 @continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]  
 @continents.pop
@@ -25,6 +24,7 @@ def using_shift(my_favorite_cities)
   @my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
   @my_favorite_cities.shift 
 end
+
 
 
 
