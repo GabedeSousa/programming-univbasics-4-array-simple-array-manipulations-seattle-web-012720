@@ -14,6 +14,8 @@ def using_pop(array)
 @continents.pop
 end
 
+def pop_with_args
+  
 
 
 
