@@ -6,15 +6,15 @@ end
 
 def using_unshift(array,string)
   bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
-  new_neighborhood = ("Staten Island")
-  bouroughs_in_nyc.unshift(new_neighborhood)
+  bouroughs_in_nyc.unshift("Staten Island")
 end
 
 def using_pop(array)
 continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]  
-deleted_string = continents.pop 
+continents.pop 
 end
 
-def
+
+
 
 
