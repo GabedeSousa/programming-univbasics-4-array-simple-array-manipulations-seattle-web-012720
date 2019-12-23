@@ -56,7 +56,9 @@ haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
   instructors.delete(no_offense_steven)
 end
 
+def using_delete_at()
 
+end
 
 
 
