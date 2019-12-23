@@ -26,6 +26,7 @@ def using_shift(my_favorite_cities)
 end
 
 def 
+  @ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
 
 
 
