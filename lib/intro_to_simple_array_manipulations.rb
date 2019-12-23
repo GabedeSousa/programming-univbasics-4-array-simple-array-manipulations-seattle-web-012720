@@ -47,6 +47,9 @@ haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
     new_array = haircuts.uniq 
     end
     
+    def using_flatten
+    
+    end
 
 
 
