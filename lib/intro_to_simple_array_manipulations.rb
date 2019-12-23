@@ -42,6 +42,9 @@ def using_concat(my_favorite_things,all_my_favs)
     @new_array = @list_of_programming_languages.insert(4,another_language)
   end
   
+  def using_uniq()
+
+end
 
 
 
