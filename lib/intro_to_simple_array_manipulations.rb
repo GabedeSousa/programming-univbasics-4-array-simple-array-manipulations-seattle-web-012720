@@ -53,13 +53,9 @@ haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
     end
     
     def using_delete(instructors,no_offense_steven)
-  instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-    no_offense_steven = instructors.delete(no_offense_steven)
-    end
-    
-  
-    
-    
+  instructors.delete(no_offense_steven)
+end
+
 
 
 
