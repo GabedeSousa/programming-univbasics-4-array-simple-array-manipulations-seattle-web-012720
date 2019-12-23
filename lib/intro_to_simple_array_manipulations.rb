@@ -46,6 +46,7 @@ def using_concat(my_favorite_things,all_my_favs)
 haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
     new_array = haircuts.uniq 
     end
+    
 
 
 
