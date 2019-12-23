@@ -52,6 +52,9 @@ haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
      flat_array = instruments.flatten
     end
     
+    def using_delete
+  
+  end
 
 
 
