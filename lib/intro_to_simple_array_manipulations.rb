@@ -5,9 +5,9 @@ colors_in_the_rainbow.push(next_color)
 end 
 
 def using_unshift(bouroughs_in_nyc,new_neighborhood)
-  @bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
+  bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
   @new_neighborhood = "Staten Island"
-  bouroughs_in_nyc.unshift(new_neighborhood)
+  bouroughs_in_nyc.unshift(@new_neighborhood)
 end
 
 def using_pop(continents)
@@ -24,6 +24,7 @@ def using_shift(my_favorite_cities)
   @my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
   @my_favorite_cities.shift 
 end
+
 
 
 
